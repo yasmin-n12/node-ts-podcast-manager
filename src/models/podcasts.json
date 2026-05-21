@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Flow Podcast",
+    "episode": 101,
+    "description": "Conversa descontraída com convidados especiais.",
+    "category": "Talk Show"
+  },
+  {
+    "id": "2",
+    "title": "DevSuperior",
+    "episode": 42,
+    "description": "Dicas sobre carreira, Node.js e TypeScript.",
+    "category": "Tecnologia"
+  }
+]

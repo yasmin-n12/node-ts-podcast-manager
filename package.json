@@ -1,0 +1,16 @@
+{
+  "name": "podcast-manager",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de podcasts usando Node.js, TypeScript e HTTP nativo.",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "start:dev": "ts-node-dev --respawn --transpile-only src/server.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
